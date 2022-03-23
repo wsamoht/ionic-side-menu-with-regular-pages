@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ionic Side Menu Test",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
